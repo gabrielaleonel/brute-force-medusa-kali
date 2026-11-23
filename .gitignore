@@ -1,0 +1,5 @@
+# Arquivos temporários e de sistema
+.DS_Store
+Thumbs.db
+*.log
+*.tmp

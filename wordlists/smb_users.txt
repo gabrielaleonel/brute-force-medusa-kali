@@ -1,0 +1,10 @@
+msfadmin
+user
+service
+admin
+guest
+suporte
+financeiro
+rh
+ti_admin
+backup
